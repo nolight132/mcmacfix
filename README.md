@@ -1,9 +1,6 @@
-# mcmacfix
-Contains fixed libraries for Minecraft Java on MacOS
-
-**Cursor not moving for a while when entering inventory/pause menu**
-
-*Fix for Intel Macs is available [here](https://github.com/GameParrot/minecraft-mac-window-fix)* 
+# Cursor not moving for a while when entering inventory/pause menu
+*This page contains [GameParrot's](https://github.com/GameParrot/minecraft-mac-window-fix) fix recompiled for M1 Macs.* 
+*If you are looking for Intel fix, visit his page!*
 
 Steps to fix (M1, MultiMC):
 
