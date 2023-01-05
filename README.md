@@ -1,5 +1,3 @@
-# Not currently needed as [GameParrot's](https://github.com/GameParrot/minecraft-mac-window-fix) fix was optimized for Apple Silicon Macs.
-
 # Cursor not moving when entering inventory/pause menu
 • [MC-134546](https://bugs.mojang.com/browse/MC-134546)
 
